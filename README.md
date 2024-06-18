@@ -1,4 +1,4 @@
-Coffee  Sales Analysis and Insights Dashboard Project
+Cofee Sales Analysis and Insights Dashboard
 
 Project Overview
 This project provides an analysis and visualization of coffee sales data. It is structured in an Excel workbook with multiple sheets, each focusing on different aspects of the data.
